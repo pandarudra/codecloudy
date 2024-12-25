@@ -1,0 +1,1 @@
+GET https://ce.judge0.com/languages/50
